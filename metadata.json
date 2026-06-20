@@ -1,0 +1,6 @@
+{
+  "name": "SMS to Telegram",
+  "description": "Automatically forwards incoming SMS messages to your Telegram bot in real-time with history log.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
